@@ -1,4 +1,4 @@
-package com.mycrm.se1992_nj_swp391_g2_crm.resources;
+package com.mycrm.crm.resources;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;
